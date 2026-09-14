@@ -1,0 +1,8 @@
+# HTML exports (Markdown versions are tracked instead)
+*.html
+
+# Excel files
+*.xlsx
+*.xls
+*.xlsm
+~$*
