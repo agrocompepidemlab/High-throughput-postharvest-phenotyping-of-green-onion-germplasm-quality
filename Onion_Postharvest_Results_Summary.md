@@ -93,4 +93,4 @@ One model per variable, chosen by AICc and fitted to all individual plants, then
 > [!CAUTION]
 > **Multiple testing** — 17 variables × 6 effects = 102 tests with no multiplicity correction. Isolated p-values just below 0.05 should be read with caution; effects at p&lt;0.001 across many variables are unaffected.
 
-<sub>Source: **Onion_Postharvest_Master.xlsx** — sheets **Approach_1** (ART ANOVA) and **Approach_2** (kinetics).</sub>
+<sub>Source: **[Phase_2_Physicochemical_analysis.xlsx](data/Phase_2_Physicochemical_analysis.xlsx)** — sheets **Approach_1** (ART ANOVA) and **Approach_2** (kinetics).</sub>
