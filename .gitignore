@@ -3,3 +3,6 @@
 
 # Excel lock files
 ~$*
+
+# Input data (not public yet)
+data/

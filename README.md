@@ -45,9 +45,10 @@ This repository implements a **multimodal high-throughput postharvest phenotypin
 | [Phase_5_Multivariate_analysis.ipynb](Phase_5_Multivariate_analysis.ipynb) | 5 | Integrated PCA, PLS-DA, PERMANOVA and cross-modality network |
 | [Onion_Postharvest_Results_Summary.md](Onion_Postharvest_Results_Summary.md) | 2 | ART ANOVA and kinetics results in one page |
 | [Spectral_Model_Metrics_Summary.md](Spectral_Model_Metrics_Summary.md) | 4 | Classification metrics for all spectral models |
-| [data/](data/) | 2–4 | Input data: physicochemical, metabolomic and discriminant spectral bands (`.xlsx`) |
 
-> Phase 3 (metabolomics) was processed in Agilent MassHunter and MetaboAnalyst 6.0, so it has no notebook; its data are in [data/Phase_3_Metabolomic_analysis.xlsx](data/Phase_3_Metabolomic_analysis.xlsx).
+> Phase 3 (metabolomics) was processed in Agilent MassHunter and MetaboAnalyst 6.0, so it has no notebook.
+
+> **Data availability:** the input data (`data/` folder) are not public yet and will be released in this repository upon publication of the article.
 
 ## Key findings
 
