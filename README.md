@@ -84,6 +84,7 @@ We thank AGROSAVIA, Universidad Nacional de Colombia and MetCore (Universidad de
 ## Contact
 
 - Leslie Walessa Castaño-Tarazona — lcastano@unal.edu.co · [ORCID](https://orcid.org/0009-0009-9874-4633)
+- Juan Camilo Henao-Rojas — AGROSAVIA · [ORCID](https://orcid.org/0000-0003-0007-6809)
 - Joaquín Guillermo Ramírez-Gil (corresponding author) — jgramireg@unal.edu.co · [ORCID](https://orcid.org/0000-0002-0162-3598)
 
 **Laboratorio de Agrocomputación y Análisis Epidemiológico**, Universidad Nacional de Colombia, Bogotá.
